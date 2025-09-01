@@ -19,7 +19,7 @@
 
 <h3>📌 Featured Projects</h3>
 <ul>
-  <li><a href="(https://mmostafa1234.github.io/Portfolio-Website/)"><b>Personal Portfolio Website</b></a> – Built with HTML, CSS, JS, and animations</li>
+  <li><a href="Portfolio-Website"><b>Personal Portfolio Website</b></a> – Built with HTML, CSS, JS, and animations</li>
 <!--   <li><a href="#"><b>Electronic Sebha App</b></a> – A digital counter with dark/light mode</li> -->
   <li><a href="(https://mmostafa1234.github.io/BMW./)"><b>Responsive Landing Page</b></a> – Modern and mobile-friendly design</li>
 </ul>
